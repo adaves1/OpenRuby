@@ -1,4 +1,4 @@
-# FiveByte Coding Standards
+# Coding Standards
 
 ## 1. Introduction
 This document outlines the coding standards for the OpenRuby project to ensure consistency, readability, and maintainability across all codebases. Following these guidelines will help streamline collaboration and reduce bugs.
