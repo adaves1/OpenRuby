@@ -1,4 +1,4 @@
-# Contributing to FiveByte
+# Contributing to OpenRuby
 
 Thank you for your interest in contributing to OpenRuby! We appreciate your time and effort in making our project better.
 
@@ -24,7 +24,7 @@ Thank you for your interest in contributing to OpenRuby! We appreciate your time
 
 ### 3. Code Review Process
 - All pull requests will go through a review process.
-- Make sure your code adheres to our [coding standards](https://github.com/adaves1/OpenRuby-Library/coding-standards).
+- Make sure your code adheres to our [coding standards](https://github.com/adaves1/OpenRuby-Library/CODING_STANDARDS.md).
 - Address any feedback or requested changes promptly.
 - Request reviews from appropriate reviewers or maintainers.
 - Ensure your branch is up to date with `main` before requesting a merge.
