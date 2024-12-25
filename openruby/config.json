@@ -1,0 +1,54 @@
+{
+
+    "data": {
+        "module": "OpenRuby",
+        "id": "python.module.openruby",
+        "version": "1.02.0",
+        "url": "https://github.com/adaves1/OpenRuby-Library/main",
+        "git-file-url": "https://github.com/adaves1/OpenRuby-Library/OpenRuby-Library.git",
+        "authors": [
+            "Anthony Daves",
+            "John Daves"
+        ],
+        "emails": [
+            "adaves1@yahoo.com",
+            "jdaves@gmail.com"
+        ],
+        "status": "production",
+        "updateDates": {
+            "1.02.0": "December 25 2024",
+            "1.01.0": "November 28 2024",
+            "1.00.0": "October 7 2024"
+        },
+        "all:files": [
+            "__init__.py",
+            "Algorithms.py",
+            "Base.py",
+            "BasicMath.py",
+            "Bitwise.py",
+            "ComplexMath.py",
+            "config.json",
+            "Constants.py",
+            "Converters.py",
+            "GeometricAnimations",
+            "OpenRuby.py",
+            "Random.py",
+            "Solvers.py",
+            "String.py",
+            "Trigonometry.py"
+        ],
+        "all:folders": [
+            "openruby"
+        ]
+    },
+
+    "settings": {
+        "logLevel": 10,
+        "enableMultiprocessing": true,
+        "enableProcessLogging": true,
+        "raiseExceptions": true
+    },
+    "bugs": [
+        "N/A"
+    ]
+}
