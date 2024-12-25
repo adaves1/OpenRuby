@@ -12,7 +12,21 @@ Versions that are currently supported with security updates or Python updates ar
 
 ## Reporting a Vulnerability
 
-Report a vulnerability at kuagweer@gmail.com or create an issue at GitHub.
+We take the security of our project seriously. If you discover a vulnerability, please follow the steps below:
 
-Go to adaves1@gmail.com for reporting a vulnerability. You can get a reply at least 1 hour after you report the vulnerability and at most 14 days after you report the vulnerability.
-If the vulnerability is accepted, our team will then fix the issue and if the vulnerability is declined, then you may need to send a screenshot of the issue that you face.
+1. **Do not disclose publicly** – Send an email to [adaves1@yahoo.com](mailto\:adaves1@yahoo.com) with the details of the vulnerability.
+2. **Provide as much information as possible** – Include:
+   - A detailed description of the vulnerability.
+   - Steps to reproduce.
+   - Any potential impact.
+3. **Confirmation** – You will receive a confirmation within 48 hours acknowledging the report.
+4. **Resolution** – We will work to address the vulnerability and notify you once it has been resolved.
+
+## Security Update Process
+
+- Critical vulnerabilities will be addressed immediately with a hotfix.
+- Moderate vulnerabilities will be patched in the next minor release.
+- Low-risk vulnerabilities will be included in the next major release.
+
+Thank you for contributing to the security and reliability of this project!
+
