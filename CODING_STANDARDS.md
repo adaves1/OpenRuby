@@ -13,7 +13,7 @@ This document outlines the coding standards for the OpenRuby project to ensure c
 ## 3. Formatting
 
 ### 3.01 Python Enhancement Proposal Guidelines
-Follow the PEP8 (Python Enhancement Proposal 0008) Guidelines to format your code or read the paragraphs given below.
+Follow the PEP8 (Python Enhancement Proposal 0008) Guidelines at [Python.org](https://peps.python.org/pep-0008/) to format your code or read the paragraphs given below.
 
 ### 3.1 Indentation
 - Use **4 spaces** per indentation level (no tabs).
