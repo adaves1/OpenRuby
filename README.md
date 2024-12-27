@@ -1,15 +1,50 @@
-# OpenRuby
+<p align="center">
+  <img src="logo.webp" alt="Logo">
+</p>
 
-**Version:** 1.02.0
+<h1 align="center">OpenRuby</h1>
 
-**Authors:** Anthony Daves and  John Daves
+<p align="center">
 
----
+<a href="https://github.com/adaves1/OpenRuby-Library/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/adaves1/OpenRuby-Library?style=flat&color=ffaaf2&label=People"> </a>
+
+<a href="https://github.com/adaves1/OpenRuby-Library/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/adaves1/OpenRuby-Library?style=flat&color=98c379&label=Stars"></a>
+
+<a href="https://github.com/adaves1/OpenRuby-Library/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/adaves1/OpenRuby-Library?style=flat&color=66a8e0&label=Forks"> </a>
+
+<a href="https://github.com/adaves1/OpenRuby-Library/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/adaves1/OpenRuby-Library?style=flat&color=f5d08b&label=Watches"> </a>
+
+<a href="https://github.com/adaves1/OpenRuby-Library/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adaves1/OpenRuby-Library?style=flat&color=e06c75&label="> </a>
+</p>
+
+<p align="center">
+  <strong>OpenRuby</strong>
+  <br>
+     <i>Python Remastered again, and again</i>
+  <br>
+  <br>
+  <a href="https://github.com/adaves1/OpenRuby-Librarywiki">Documentation</a>
+  ·
+  <a href="https://github.com/adaves1/OpenRuby-Library/issues">Report a Bug</a>
+  ·
+  <a href="https://github.com/adaves1/OpenRuby-Library/issues">Request a Feature</a>
+</p>
+
+<br>
 
 ## Overview
 `OpenRuby` is a Python package designed to provide robust functionality for performing various types of complex or simple math and string operations. It is built to be modular and extensible, allowing developers to easily integrate it into their existing projects or use it as a foundation for new ones.
 
 The module consists of multiple submodules, each handling a distinct part of the overall functionality. This ensures a clean separation of concerns and allows for greater maintainability and scalability.
+
+**`Version`**: 1.02.0
+
+**`Authors`**: Anthony Daves and John Daves
 
 ---
 
