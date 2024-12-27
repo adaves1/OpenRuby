@@ -233,5 +233,5 @@ Contributions are encouraged! Whether it’s bug fixes, new features, or documen
 ---
 
 ## License
-`OpenRuby` is licensed under the MIT License. Use, modify, and distribute it freely.
+`OpenRuby` is licensed under the MIT License, allowing you to use, modify, and distribute it freely.
 
