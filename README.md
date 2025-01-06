@@ -28,7 +28,7 @@
      <i>Python Remastered again, and again</i>
   <br>
   <br>
-  <a href="https://github.com/adaves1/OpenRuby-Librarywiki">Documentation</a>
+  <a href="https://github.com/adaves1/OpenRuby-Library/wiki">Documentation</a>
   ·
   <a href="https://github.com/adaves1/OpenRuby-Library/issues">Report a Bug</a>
   ·
