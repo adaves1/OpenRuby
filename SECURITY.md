@@ -7,8 +7,8 @@ Versions that are currently supported with security updates or Python updates ar
 | Version | Supported          |
 | ------- | ------------------ |
 | v1.02.0 | :white_check_mark: |
-| v1.01.0 | :white_check_mark: |
-| v1.00.0 | :white_check_mark: |
+| v1.01.0 | :x: |
+| v1.00.0 | :x: |
 
 ## Reporting a Vulnerability
 
