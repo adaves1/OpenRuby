@@ -5,7 +5,7 @@ Thank you for your interest in contributing to OpenRuby! We appreciate your time
 ## How to Contribute
 
 ### 1. Reporting Issues
-- If you encounter a bug or have a feature request, please open an issue in our [GitHub Issue Tracker](https://github.com/adaves1/issues).
+- If you encounter a bug or have a feature request, please open an issue in our [GitHub Issue Tracker](https://github.com/adaves1/OpenRuby/issues).
 - Clearly describe the problem, including steps to reproduce, expected behavior, and actual behavior.
 - Attach relevant logs, screenshots, or videos that can help us understand the issue better.
 - Search existing issues to avoid duplicates before submitting a new one.
@@ -24,7 +24,7 @@ Thank you for your interest in contributing to OpenRuby! We appreciate your time
 
 ### 3. Code Review Process
 - All pull requests will go through a review process.
-- Make sure your code adheres to our [coding standards](https://github.com/adaves1/OpenRuby-Library/CODING_STANDARDS.md).
+- Make sure your code adheres to our [coding standards](https://github.com/adaves1/OpenRuby/CODING_STANDARDS.md).
 - Address any feedback or requested changes promptly.
 - Request reviews from appropriate reviewers or maintainers.
 - Ensure your branch is up to date with `main` before requesting a merge.
