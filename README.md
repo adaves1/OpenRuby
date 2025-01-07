@@ -6,20 +6,20 @@
 
 <p align="center">
 
-<a href="https://github.com/adaves1/OpenRuby-Library/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/adaves1/OpenRuby-Library?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/adaves1/OpenRuby/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/adaves1/OpenRuby?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/adaves1/OpenRuby-Library/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/adaves1/OpenRuby-Library?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/adaves1/OpenRuby/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/adaves1/OpenRuby?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/adaves1/OpenRuby-Library/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/adaves1/OpenRuby-Library?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/adaves1/OpenRuby/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/adaves1/OpenRuby?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/adaves1/OpenRuby-Library/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/adaves1/OpenRuby-Library?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/adaves1/OpenRuby/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/adaves1/OpenRuby?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/adaves1/OpenRuby-Library/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adaves1/OpenRuby-Library?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/adaves1/OpenRuby/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adaves1/OpenRuby?style=flat&color=e06c75&label="> </a>
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
      <i>Python Remastered again, and again</i>
   <br>
   <br>
-  <a href="https://github.com/adaves1/OpenRuby-Library/wiki">Documentation</a>
+  <a href="https://github.com/adaves1/OpenRuby/wiki">Documentation</a>
   ·
-  <a href="https://github.com/adaves1/OpenRuby-Library/issues">Report a Bug</a>
+  <a href="https://github.com/adaves1/OpenRuby/issues">Report a Bug</a>
   ·
-  <a href="https://github.com/adaves1/OpenRuby-Library/issues">Request a Feature</a>
+  <a href="https://github.com/adaves1/OpenRuby/issues">Request a Feature</a>
 </p>
 
 <br>
@@ -66,7 +66,7 @@ The module consists of multiple submodules, each handling a distinct part of the
 To install `OpenRuby`, clone the repository and include the module in your project directory.
 
 ```bash
-git clone https://github.com/adaves1/OpenRuby-Library.git
+git clone https://github.com/adaves1/OpenRuby.git
 
 cd openruby
 ```
