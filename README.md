@@ -23,6 +23,17 @@
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/w/adaves1/OpenRuby" alt="GitHub commit activity"/>
+
+<img src="https://img.shields.io/github/contributors/adaves1/OpenRuby" alt="GitHub contributors"/>
+    
+<img src="https://img.shields.io/github/languages/code-size/adaves1/OpenRuby" alt="GitHub code size in bytes"/>
+
+<img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/adaves1/OpenRuby/badge?filter=.py$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
+
+</p>
+<p align="center">
   <strong>OpenRuby</strong>
   <br>
      <i>Python Remastered again, and again</i>
